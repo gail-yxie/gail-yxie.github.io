@@ -5,12 +5,44 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuege (Gail) Xie</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yuege (Gail) Xie</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning</title>
+      <link>/publication/shrimp/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/shrimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdaLoss: A computationally-efficient and provably convergent adaptive gradient method</title>
+      <link>/publication/adaloss/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/adaloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overparameterization and generalization error: weighted trigonometric interpolation</title>
+      <link>/publication/weightedopt/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/weightedopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Convergence of Adaptive Stochastic Gradient Descent</title>
+      <link>/publication/adalinear/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/adalinear/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yuege (Gail) Xie</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>3 | Yuege (Gail) Xie</title>
+    <link>/publication_types/3/</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>3</title>
+      <link>/publication_types/3/</link>
     </image>
     
     <item>
@@ -21,26 +21,10 @@
     </item>
     
     <item>
-      <title>AdaLoss: A computationally-efficient and provably convergent adaptive gradient method</title>
-      <link>/publication/adaloss/</link>
-      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/adaloss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Overparameterization and generalization error: weighted trigonometric interpolation</title>
       <link>/publication/weightedopt/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/publication/weightedopt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear Convergence of Adaptive Stochastic Gradient Descent</title>
-      <link>/publication/adalinear/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/adalinear/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hung-Hsu Chou | Yuege (Gail) Xie</title>
+    <link>/authors/hung-hsu-chou/</link>
+      <atom:link href="/authors/hung-hsu-chou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hung-Hsu Chou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hung-Hsu Chou</title>
+      <link>/authors/hung-hsu-chou/</link>
+    </image>
+    
+    <item>
+      <title>Overparameterization and generalization error: weighted trigonometric interpolation</title>
+      <link>/publication/weightedopt/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/weightedopt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
