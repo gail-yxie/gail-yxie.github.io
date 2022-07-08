@@ -5,7 +5,7 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>3</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning</title>
-      <link>/publication/shrimp/</link>
-      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/shrimp/</guid>
+      <title>Overparameterization and generalization error: weighted trigonometric interpolation</title>
+      <link>/publication/weightedopt/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/weightedopt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Overparameterization and generalization error: weighted trigonometric interpolation</title>
-      <link>/publication/weightedopt/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/weightedopt/</guid>
+      <title>SHRIMP: Sparser Random Feature Models via Iterative Magnitude Pruning</title>
+      <link>/publication/shrimp/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/shrimp/</guid>
       <description></description>
     </item>
     
