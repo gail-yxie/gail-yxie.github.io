@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Yuege (Gail) Xie</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Yijun Dong* | Yuege (Gail) Xie</title>
+    <link>/authors/yijun-dong/</link>
+      <atom:link href="/authors/yijun-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yijun Dong*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>3</title>
-      <link>/publication_types/3/</link>
+      <title>Yijun Dong*</title>
+      <link>/authors/yijun-dong/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/adawac/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/adawac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Overparameterization and generalization error: weighted trigonometric interpolation</title>
-      <link>/publication/weightedopt/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/weightedopt/</guid>
       <description></description>
     </item>
     

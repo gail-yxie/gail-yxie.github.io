@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**Yuege Xie**</title>
       <link>/authors/yuege-xie/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/authors/yuege-xie/</guid>
       <description></description>
     </item>
@@ -23,8 +23,32 @@
     <item>
       <title>Rachel Ward</title>
       <link>/authors/rachel-ward/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/authors/rachel-ward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yijun Dong*</title>
+      <link>/authors/yijun-dong/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/yijun-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bobby Shi*</title>
+      <link>/authors/bobby-shi/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/bobby-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hayden Schaeffer</title>
+      <link>/authors/hayden-schaeffer/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/hayden-schaeffer/</guid>
       <description></description>
     </item>
     
@@ -61,27 +85,11 @@
     </item>
     
     <item>
-      <title>Bobby Shi</title>
-      <link>/authors/bobby-shi/</link>
-      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/bobby-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hayden Schaeffer</title>
-      <link>/authors/hayden-schaeffer/</link>
-      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/hayden-schaeffer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am currently a machine learning engineer at Snap. I received my Ph.D. from &lt;a href=&#34;https://www.oden.utexas.edu&#34; target=&#34;_blank&#34;&gt;Oden Institute&lt;/a&gt;, UT Austin, advised by &lt;a href=&#34;https://sites.google.com/prod/view/rward#h.p_53Lwr7V_jkZK&#34; target=&#34;_blank&#34;&gt;Rachel Ward&lt;/a&gt;. My research focuses on understanding optimization and generalization in deep learning. In particular, I am interested in adaptive stochastic gradient descent algorithms, generalization of overparameterized systems, sparse random feature models, and robust learning. Before joining UT Austin, I received my bachelor’s degree in Mathematics and Applied Mathematics from Zhejiang University, China. And I was an exchange student at Lund University, Sweden, during Fall 2015.&lt;/p&gt;
+      <description>&lt;p&gt;I am currently a machine learning engineer at &lt;a href=&#34;https://www.snap.com/en-US&#34; target=&#34;_blank&#34;&gt;Snap&lt;/a&gt;. I received my Ph.D. from &lt;a href=&#34;https://www.oden.utexas.edu&#34; target=&#34;_blank&#34;&gt;Oden Institute&lt;/a&gt;, UT Austin, advised by &lt;a href=&#34;https://sites.google.com/prod/view/rward#h.p_53Lwr7V_jkZK&#34; target=&#34;_blank&#34;&gt;Rachel Ward&lt;/a&gt;. My research focuses on understanding optimization and generalization in deep learning. In particular, I am interested in adaptive stochastic gradient descent algorithms, generalization of overparameterized systems, sparse random feature models, and robust learning. Before joining UT Austin, I received my bachelor’s degree in Mathematics and Applied Mathematics from Zhejiang University, China. And I was an exchange student at Lund University, Sweden, during Fall 2015.&lt;/p&gt;
 </description>
     </item>
     
