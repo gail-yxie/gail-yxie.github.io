@@ -498,7 +498,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Sample reweighting is an effective strategy for learning from training data coming from a mixture of subpopulations. In volumetric medical image segmentation, the data inputs are similarly distributed, but the associated data labels fall into two subpopulations &ndash; &ldquo;label-sparse&rdquo; and &ldquo;label-dense&rdquo; &ndash; depending on whether the data image occurs near the beginning/end of the volumetric scan or the middle. Existing reweighting algorithms have focused on hard- and soft- thresholding of the label-sparse data, which results in loss of information and reduced sample efficiency by discarding valuable data input. For this setting, we propose AdaWAC as an adaptive weighting algorithm that introduces a set of trainable weights which, at the saddle point of the underlying objective, assigns label-dense samples to supervised cross-entropy loss and label-sparse samples to unsupervised consistency regularization. We provide a convergence guarantee for AdaWAC by recasting the optimization as online mirror descent on a saddle point problem. Moreover, we empirically demonstrate that AdaWAC not only enhances segmentation performance and sample efficiency but also improves robustness to the subpopulation shift in labels.</p>
+    <p class="pub-abstract">Concept shift is a prevailing problem in natural tasks like medical image segmentation where samples usually come from different subpopulations with variant correlations between features and labels. One common type of concept shift in medical image segmentation is the &ldquo;information imbalance&rdquo; between label-sparse samples with few (if any) segmentation labels and label-dsense samples with plentiful labeled pixels. Existing distributionally robust algorithms have focused on adaptively truncating/down-weighting the &ldquo;less informative&rdquo; (i.e., label-sparse in our context) samples. To exploit data features of label-sparse samples more efficiently, we propose an adaptively weighted online optimization algorithm&mdash;AdaWAC&mdash;to incorporate data augmentation consistency regularization in sample reweighting. Our method introduces a set of trainable weights to balance the supervised loss and unsupervised consistency regularization of each sample separately. At the saddle point of the underlying objective, the weights assign label-dense samples to the supervised loss and label-sparse samples to the unsupervised consistency regularization. We provide a convergence guarantee by recasting the optimization as online mirror descent on a saddle point problem. Our empirical results demonstrate that AdaWAC not only enhances the segmentation performance and sample efficiency but also improves the robustness to concept shift on various medical image segmentation tasks with different UNet-style backbones.</p>
     
 
     
@@ -510,8 +510,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -528,7 +528,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Under Review</div>
+          <div class="col-12 col-md-9">ICML 2023</div>
         </div>
       </div>
       <div class="col-md-1"></div>
